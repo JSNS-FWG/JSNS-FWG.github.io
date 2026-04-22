@@ -1,3 +1,21 @@
 body {
   padding: 0 10px;
 }
+h1 {
+  height: 200px;
+  display: flex;
+  align-items: flex-end; /* 下付け */
+  padding-left: 20px;
+  padding-bottom: 10px;
+  background-image: url(title_bg.jpg);
+  background-size: cover;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h2 {
+  background-color: #e0f7fa;
+  padding: 5px;
+}
+h3 {
+  background-color: #eeeeee;
+  padding: 5px;
+}
